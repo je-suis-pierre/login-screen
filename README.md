@@ -1,2 +1,2 @@
-# resume
-A login page for showing something like resume.
+# Login Screen
+A login page.
